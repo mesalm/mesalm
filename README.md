@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi there, I'm Mohammed Roni! 👋
+# I'm Mohammed Roni! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
