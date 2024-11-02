@@ -52,6 +52,7 @@ I'm a **back-end developer** specializing in **Node.js** and **Express**, with a
 - [Twitter](https://x.com/MahamdMesalm?t=p3i67rroP5Wl9hEVPR-vog&s=08)
 
 ---
+[![An image of @mesalm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mesalm)](https://holopin.io/@mesalm)
 
 _Made with ❤️ by Mohammed_
 
