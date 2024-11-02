@@ -59,22 +59,22 @@ I'm a **back-end developer** specializing in **Node.js** and **Express**, with a
 - **Level Zero Badge**  
   📅 Awarded on: [Hacktoberfest 2024: Registered]  
   🔖 **Badge ID**: [cm21sohrm380040cl82x8ggwzi.]  
-  ![Level Zero Badge](https://raw.githubusercontent.com/mesalm/mesalm/main/src/level0.jpg) 
+  ![Level Zero Badge](https://raw.githubusercontent.com/mesalm/mesalm/main/src/level0.jpg) .
 
 - **Level One Badge - First Pull Request**  
   📅 Awarded on: [Hacktoberfest 2024: Level 1]  
   🔖 **Badge ID**: [cm2g2hv5u97410ckz6nkmjcbf.]  
-  ![Level One Badge](https://github.com/mesalm/mesalm/blob/main/src/level.jpg) 
+  ![Level One Badge](https://raw.githubusercontent.com/mesalm/mesalm/main/src/level1.jpg).
 
 - **Level Two Badge - Second Pull Request**  
   📅 Awarded on: [Hacktoberfest 2024: Level 2]  
   🔖 **Badge ID**: [cm2g2ic9g112340cjpuodos5zo.]  
-  ![Level Two Badge](https://github.com/mesalm/mesalm/blob/main/src/leve2.jpg)  
+  ![Level Two Badge](https://raw.githubusercontent.com/mesalm/mesalm/main/src/level2.jpg).  
 
 - **Level Three Badge - Third Pull Request**  
   📅 Awarded on: [Hacktoberfest 2024: Level 3]  
   🔖 **Badge ID**: [cm2t6hbfs00320cky8y1vbwqq.]  
-  ![Level Three Badge](https://github.com/mesalm/mesalm/blob/main/src/leve3.jpg)  
+  ![Level Three Badge](https://raw.githubusercontent.com/mesalm/mesalm/main/src/level3.jpg).  
 
 - **Level Four Badge - Fourth Pull Request**  
   📅 Awarded on: [Hacktoberfest 2024: Level 4]  
