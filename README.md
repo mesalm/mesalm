@@ -52,7 +52,9 @@ I'm a **back-end developer** specializing in **Node.js** and **Express**, with a
 - [Twitter](https://x.com/MahamdMesalm?t=p3i67rroP5Wl9hEVPR-vog&s=08)
 
 ---
-[![An image of @mesalm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mesalm)](https://holopin.io/@mesalm)
+@mesalm was awarded this badge on 2024-10-09T11:36:52.978Z (UTC).
+
+The unique Badge ID is cm21sohrm380040cl82x8ggwzi.
 
 _Made with ❤️ by Mohammed_
 
