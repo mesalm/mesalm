@@ -59,7 +59,7 @@ I'm a **back-end developer** specializing in **Node.js** and **Express**, with a
 - **Level Zero Badge**  
   📅 Awarded on: [Hacktoberfest 2024: Registered]  
   🔖 **Badge ID**: [cm21sohrm380040cl82x8ggwzi.]  
-  ![Level Zero Badge](src/leve0.jpg)  
+  ![Level Zero Badge](https://raw.githubusercontent.com/mesalm/mesalm/main/src/level0.jpg) 
 
 - **Level One Badge - First Pull Request**  
   📅 Awarded on: [Hacktoberfest 2024: Level 1]  
