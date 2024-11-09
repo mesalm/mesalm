@@ -78,8 +78,8 @@ I'm a **back-end developer** specializing in **Node.js** and **Express**, with a
 
 - **Level Four Badge - Fourth Pull Request**  
   📅 Awarded on: [Hacktoberfest 2024: Level 4]  
-  🔖 **Badge ID**: [Badge ID]  
-  ![Level Four Badge](https://github.com/mesalm/mesalm/blob/main/src/leve4.jpg)  
+  🔖 **Badge ID**: [cm351mtxs19520cmgydis6t64.]  
+  ![Level Four Badge](https://raw.githubusercontent.com/mesalm/mesalm/main/src/level4.jpg)  
 
 
 _Made with ❤️ by Mohammed_
