@@ -25,6 +25,12 @@ I'm a **back-end developer** specializing in **Node.js** and **Express**, with a
 | **TypeScript**| Superset of JavaScript for typing     | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
 | **JavaScript**| Dynamic programming language          | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
 | **C++**       | Object-oriented programming language  | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) |
+| **HTML5**     | Markup language for web structure     | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+| **CSS3**      | Styling language for web pages        | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **React**     | JavaScript library for UI             | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
+| **Python**    | High-level programming language       | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **Linux**     | Open-source operating system          | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+
 
 ### Databases
 | Database      | Description                           | Icon |
